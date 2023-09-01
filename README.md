@@ -1,4 +1,4 @@
 # Cancer_prediction_software
 Cancer Prediction Software
 
-<img src="https://drive.google.com/file/d/1AZ1OTqDf3gn6xAlXkf8q1c95zrhTpPSR/view?usp=drive_link" alt="JavaScript Logo" width="100" height="100"/>
+![img_1](https://github.com/aniketrox/Cancer_prediction_software/assets/90191341/af1bd91d-6c1d-4778-b9f9-e30ded6866d0)
